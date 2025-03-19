@@ -1,0 +1,365 @@
+id,resident_name,course_name
+27,resident27,FM/PC
+27,resident27,FM
+27,resident27,FM/MH-1
+27,resident27,FM/MH-Diamond
+27,resident27,FM/PS1
+27,resident27,FM/PS2
+27,resident27,Elective1
+27,resident27,Peds ER
+27,resident27,Peds Ward
+27,resident27,COE
+27,resident27,OBS
+27,resident27,ER1
+27,resident27,IM1
+27,resident27,Palliative Care
+28,resident28,FM/PC
+28,resident28,FM
+28,resident28,FM/MH-1
+28,resident28,FM/MH-Diamond
+28,resident28,FM/PS1
+28,resident28,FM/PS2
+28,resident28,Elective1
+28,resident28,Peds ER
+28,resident28,Peds Ward
+28,resident28,COE
+28,resident28,OBS
+28,resident28,ER1
+28,resident28,IM1
+28,resident28,Palliative Care
+29,resident29,FM/PC
+29,resident29,FM
+29,resident29,FM/MH-1
+29,resident29,FM/MH-Diamond
+29,resident29,FM/PS1
+29,resident29,FM/PS2
+29,resident29,Elective1
+29,resident29,Peds ER
+29,resident29,Peds Ward
+29,resident29,COE
+29,resident29,OBS
+29,resident29,ER1
+29,resident29,IM1
+29,resident29,Palliative Care
+30,resident30,FM/PC
+30,resident30,FM
+30,resident30,FM/MH-1
+30,resident30,FM/MH-Diamond
+30,resident30,FM/PS1
+30,resident30,FM/PS2
+30,resident30,Elective1
+30,resident30,Peds ER
+30,resident30,Peds Ward
+30,resident30,COE
+30,resident30,OBS
+30,resident30,ER1
+30,resident30,IM1
+30,resident30,Palliative Care
+31,resident31,FM/PC
+31,resident31,FM
+31,resident31,FM/MH-1
+31,resident31,FM/MH-Diamond
+31,resident31,FM/PS1
+31,resident31,FM/PS2
+31,resident31,Elective1
+31,resident31,Peds ER
+31,resident31,Peds Ward
+31,resident31,COE
+31,resident31,OBS
+31,resident31,ER1
+31,resident31,IM1
+31,resident31,Palliative Care
+32,resident32,FM/PC
+32,resident32,FM
+32,resident32,FM/MH-1
+32,resident32,FM/MH-Diamond
+32,resident32,FM/PS1
+32,resident32,FM/PS2
+32,resident32,Elective1
+32,resident32,Peds ER
+32,resident32,Peds Ward
+32,resident32,COE
+32,resident32,OBS
+32,resident32,ER1
+32,resident32,IM1
+32,resident32,Palliative Care
+33,resident33,FM/PC
+33,resident33,FM
+33,resident33,FM/MH-1
+33,resident33,FM/MH-Diamond
+33,resident33,FM/PS1
+33,resident33,FM/PS2
+33,resident33,Elective1
+33,resident33,Peds ER
+33,resident33,Peds Ward
+33,resident33,COE
+33,resident33,OBS
+33,resident33,ER1
+33,resident33,IM1
+33,resident33,Palliative Care
+34,resident34,FM/PC
+34,resident34,FM
+34,resident34,FM/MH-1
+34,resident34,FM/MH-Diamond
+34,resident34,FM/PS1
+34,resident34,FM/PS2
+34,resident34,Elective1
+34,resident34,Peds ER
+34,resident34,Peds Ward
+34,resident34,COE
+34,resident34,OBS
+34,resident34,ER1
+34,resident34,IM1
+34,resident34,Palliative Care
+35,resident35,FM/PC
+35,resident35,FM
+35,resident35,FM/MH-1
+35,resident35,FM/MH-Diamond
+35,resident35,FM/PS1
+35,resident35,FM/PS2
+35,resident35,Elective1
+35,resident35,Peds ER
+35,resident35,Peds Ward
+35,resident35,COE
+35,resident35,OBS
+35,resident35,ER1
+35,resident35,IM1
+35,resident35,Palliative Care
+36,resident36,FM/PC
+36,resident36,FM
+36,resident36,FM/MH-1
+36,resident36,FM/MH-Diamond
+36,resident36,FM/PS1
+36,resident36,FM/PS2
+36,resident36,Elective1
+36,resident36,Peds ER
+36,resident36,Peds Ward
+36,resident36,COE
+36,resident36,OBS
+36,resident36,ER1
+36,resident36,IM1
+36,resident36,Palliative Care
+37,resident37,FM/PC
+37,resident37,FM
+37,resident37,FM/MH-1
+37,resident37,FM/MH-Diamond
+37,resident37,FM/PS1
+37,resident37,FM/PS2
+37,resident37,Elective1
+37,resident37,Peds ER
+37,resident37,Peds Ward
+37,resident37,COE
+37,resident37,OBS
+37,resident37,ER1
+37,resident37,IM1
+37,resident37,Palliative Care
+38,resident38,FM/PC
+38,resident38,FM
+38,resident38,FM/MH-1
+38,resident38,FM/MH-Diamond
+38,resident38,FM/PS1
+38,resident38,FM/PS2
+38,resident38,Elective1
+38,resident38,Peds ER
+38,resident38,Peds Ward
+38,resident38,COE
+38,resident38,OBS
+38,resident38,ER1
+38,resident38,IM1
+38,resident38,Palliative Care
+39,resident39,FM/PC
+39,resident39,FM
+39,resident39,FM/MH-1
+39,resident39,FM/MH-Diamond
+39,resident39,FM/PS1
+39,resident39,FM/PS2
+39,resident39,Elective1
+39,resident39,Peds ER
+39,resident39,Peds Ward
+39,resident39,COE
+39,resident39,OBS
+39,resident39,ER1
+39,resident39,IM1
+39,resident39,Palliative Care
+40,resident40,FM/PC
+40,resident40,FM
+40,resident40,FM/MH-1
+40,resident40,FM/MH-Diamond
+40,resident40,FM/PS1
+40,resident40,FM/PS2
+40,resident40,Elective1
+40,resident40,Peds ER
+40,resident40,Peds Ward
+40,resident40,COE
+40,resident40,OBS
+40,resident40,ER1
+40,resident40,IM1
+40,resident40,Palliative Care
+41,resident41,FM/PC
+41,resident41,FM
+41,resident41,FM/MH-1
+41,resident41,FM/MH-Diamond
+41,resident41,FM/PS1
+41,resident41,FM/PS2
+41,resident41,Elective1
+41,resident41,Peds ER
+41,resident41,Peds Ward
+41,resident41,COE
+41,resident41,OBS
+41,resident41,ER1
+41,resident41,IM1
+41,resident41,Palliative Care
+42,resident42,FM/PC
+42,resident42,FM
+42,resident42,FM/MH-1
+42,resident42,FM/MH-Diamond
+42,resident42,FM/PS1
+42,resident42,FM/PS2
+42,resident42,Elective1
+42,resident42,Peds ER
+42,resident42,Peds Ward
+42,resident42,COE
+42,resident42,OBS
+42,resident42,ER1
+42,resident42,IM1
+42,resident42,Palliative Care
+43,resident43,FM/PC
+43,resident43,FM
+43,resident43,FM/MH-1
+43,resident43,FM/MH-Diamond
+43,resident43,FM/PS1
+43,resident43,FM/PS2
+43,resident43,Elective1
+43,resident43,Peds ER
+43,resident43,Peds Ward
+43,resident43,COE
+43,resident43,OBS
+43,resident43,ER1
+43,resident43,IM1
+43,resident43,Palliative Care
+44,resident44,FM/PC
+44,resident44,FM
+44,resident44,FM/MH-1
+44,resident44,FM/MH-Diamond
+44,resident44,FM/PS1
+44,resident44,FM/PS2
+44,resident44,Elective1
+44,resident44,Peds ER
+44,resident44,Peds Ward
+44,resident44,COE
+44,resident44,OBS
+44,resident44,ER1
+44,resident44,IM1
+44,resident44,Palliative Care
+45,resident45,FM/PC
+45,resident45,FM
+45,resident45,FM/MH-1
+45,resident45,FM/MH-Diamond
+45,resident45,FM/PS1
+45,resident45,FM/PS2
+45,resident45,Elective1
+45,resident45,Peds ER
+45,resident45,Peds Ward
+45,resident45,COE
+45,resident45,OBS
+45,resident45,ER1
+45,resident45,IM1
+45,resident45,Palliative Care
+46,resident46,FM/PC
+46,resident46,FM
+46,resident46,FM/MH-1
+46,resident46,FM/MH-Diamond
+46,resident46,FM/PS1
+46,resident46,FM/PS2
+46,resident46,Elective1
+46,resident46,Peds ER
+46,resident46,Peds Ward
+46,resident46,COE
+46,resident46,OBS
+46,resident46,ER1
+46,resident46,IM1
+46,resident46,Palliative Care
+47,resident47,FM/PC
+47,resident47,FM
+47,resident47,FM/MH-1
+47,resident47,FM/MH-Diamond
+47,resident47,FM/PS1
+47,resident47,FM/PS2
+47,resident47,Elective1
+47,resident47,Peds ER
+47,resident47,Peds Ward
+47,resident47,COE
+47,resident47,OBS
+47,resident47,ER1
+47,resident47,IM1
+47,resident47,Palliative Care
+48,resident48,FM/PC
+48,resident48,FM
+48,resident48,FM/MH-1
+48,resident48,FM/MH-Diamond
+48,resident48,FM/PS1
+48,resident48,FM/PS2
+48,resident48,Elective1
+48,resident48,Peds ER
+48,resident48,Peds Ward
+48,resident48,COE
+48,resident48,OBS
+48,resident48,ER1
+48,resident48,IM1
+48,resident48,Palliative Care
+49,resident49,FM/PC
+49,resident49,FM
+49,resident49,FM/MH-1
+49,resident49,FM/MH-Diamond
+49,resident49,FM/PS1
+49,resident49,FM/PS2
+49,resident49,Elective1
+49,resident49,Peds ER
+49,resident49,Peds Ward
+49,resident49,COE
+49,resident49,OBS
+49,resident49,ER1
+49,resident49,IM1
+49,resident49,Palliative Care
+50,resident50,FM/PC
+50,resident50,FM
+50,resident50,FM/MH-1
+50,resident50,FM/MH-Diamond
+50,resident50,FM/PS1
+50,resident50,FM/PS2
+50,resident50,Elective1
+50,resident50,Peds ER
+50,resident50,Peds Ward
+50,resident50,COE
+50,resident50,OBS
+50,resident50,ER1
+50,resident50,IM1
+50,resident50,Palliative Care
+51,resident51,FM/PC
+51,resident51,FM
+51,resident51,FM/MH-1
+51,resident51,FM/MH-Diamond
+51,resident51,FM/PS1
+51,resident51,FM/PS2
+51,resident51,Elective1
+51,resident51,Peds ER
+51,resident51,Peds Ward
+51,resident51,COE
+51,resident51,OBS
+51,resident51,ER1
+51,resident51,IM1
+51,resident51,Palliative Care
+52,resident52,FM/PC
+52,resident52,FM
+52,resident52,FM/MH-1
+52,resident52,FM/MH-Diamond
+52,resident52,FM/PS1
+52,resident52,FM/PS2
+52,resident52,Elective1
+52,resident52,Peds ER
+52,resident52,Peds Ward
+52,resident52,COE
+52,resident52,OBS
+52,resident52,ER1
+52,resident52,IM1
+52,resident52,Palliative Care

@@ -79,22 +79,22 @@ Project to provide medical course schedule
 
 # Rules:
 
-1- Schedule get current status of each student and provides schedule for 
+1- Schedule get current status of each resident and provides schedule for 
 the following year
 
-2- Students R1 must get first course from FM courses
+2- Residents R1 must get first course from FM courses
 
-3- Each Student MUST consider following sequence in getting FM/ outside courses:
+3- Each resident MUST consider following sequence in getting FM/ outside courses:
     
     - 1(FM)-3(outside)-1(FM)....
     or 
     - 1(FM)-4(outside)-1(FM)....
 
-4- Maximum student for each input schedule is 52
+4- Maximum resident for each input schedule is 52
     
-    - 26 NEW students
+    - 26 NEW residents
 
-    - 26 SAECOND year students
+    - 26 SAECOND year residents
 
 5- Some courses are only for first year, some courses are only for second year
     
@@ -110,7 +110,7 @@ the following year
 6- Pre-requisites:
    
      - FM: N/A
-        -  So for example student could get FM/PS2 before FM/PS1
+        -  So for example resident could get FM/PS2 before FM/PS1
      - Outside: N/A 
 
 7- Max course limit in each period/rotation
@@ -155,9 +155,12 @@ Final result:
     - Rotation schedule for each group/period  
 
 Questions:
-- Can students get more than one course in a period/rotation?
-- Can Student get course FM/PS2 and FM/PS1 together?
+- Can residents get more than one course in a period/rotation?
+- Can resident get course FM/PS2 and FM/PS1 together?
+- So input includes list of residents in each group/resident???
+  - Please provide input list
+- Do you provide resident/group/ and if they are R1/R2 as input?
 - Do we have always 5 Groups(BLUE, GREEN, ORANGE, REDS, YELLOW)
-- Verify 
+- Verify ????
   -  FM/MH1,2 -> 6 (R1 + R2)
   -  FM/MH Diamond -> 2 (R1 + R2) 
